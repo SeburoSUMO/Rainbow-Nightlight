@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Rainbow Nightlight",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Rainbow Nightlight is a dynamic theme for Firefox based on Gradientus.",
+    "description": "Description of the add-on."
+  }
+}
